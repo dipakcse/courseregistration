@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Course Registration</string>
+    <string name="term">Term</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_id">CourseID</string>
+    <string name="prerequsite">Prerequsite</string>
+    <string name="addCourse">Add Course</string>
+    <string name="registerCourse">Register Course</string>
+    <string name="registerText">Register a course by selecting from available course dropdown and Long touch to delete a course from list.</string>
+    <string name="availableCourse">Available Courses</string>
+    <string name="description">Click Below button for details</string>
+    <string name="courseDetails">Course Details</string>
+    <string name="delete_success">Course is deleted successfully.</string>
+    <string name="register_success">Course is registered successfully.</string>
+    <string name="added_success">Course is added successfully.</string>
+    <string name="not_empty">CourseID, Course Name and Term could not be empty.</string>
+    <string name="image_id">Image</string>
+</resources>
