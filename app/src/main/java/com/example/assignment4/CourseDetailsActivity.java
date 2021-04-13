@@ -26,6 +26,7 @@ public class CourseDetailsActivity extends AppCompatActivity {
             prerequsite.setText(dataModel.getPrerequsite());
         }catch (Exception e){
             e.printStackTrace();
+
         }
     }
 }
